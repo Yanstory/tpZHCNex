@@ -1,5 +1,6 @@
 {
 	"dependencies": [
+		"nmlgc/base_tsa",
 		"nmlgc/base_tasofro"
 	],
 	"fonts": {
