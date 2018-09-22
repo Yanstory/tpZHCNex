@@ -10,5 +10,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/Yanstory/tpZHCNex/master/taso/"
 	],
-	"title": "th155 Chinese Simplfied font patch"
+	"title": "tasofro's ftg Chinese Simplfied font patch"
 }
