@@ -7,5 +7,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/Yanstory/tpZHCNex/master/"
 	],
-	"title": "thpatch zh-cn branch extra patches"
+	"title": "thpatch zh-hans ex-patches"
 }
