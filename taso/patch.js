@@ -1,10 +1,10 @@
 {
 	"dependencies": [
-		"nmlgc/base_tsa",
-		"nmlgc/base_tasofro"
+		"base_tsa",
+		"base_tasofro"
 	],
 	"fonts": {
-		"fzzzh.TTF": true
+		"fzzzh.ttf": true
 	},
 	"id": "taso",
 	"servers": [
