@@ -1,6 +1,6 @@
 {
-	"font_file":     "syBold.ttf",
-	"font_name":     "Source Han Sans CN Bold",
+	"font_file":     "syNormal.otf",
+	"font_name":     "Source Han Sans CN Normal",
 	"font_size":     22,
 	"outline_width": 3,
 	"margin":        4,

@@ -4,7 +4,8 @@
 	],
 	"fonts": {
 		"simhei.ttf": true,
-		"syBlod.ttf": true
+		"syBlod.ttf": true,
+		"syNormal.otf": true
 	},
 	"id": "taso",
 	"servers": [
