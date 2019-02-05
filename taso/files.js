@@ -33,7 +33,7 @@
 	"th155/data/event/script/marisa/stage2.pl.jdiff": 2845203283,
 	"th155/data/event/script/marisa/stage3.pl.jdiff": 435901640,
 	"th155/data/event/script/marisa/stage4.pl.jdiff": 853882245,
-	"th155/data/event/script/marisa/stage5.pl.jdiff": 2829788322,
+	"th155/data/event/script/marisa/stage5.pl.jdiff": 2806072787,
 	"th155/data/event/script/miko/ed.pl": 3418975929,
 	"th155/data/event/script/miko/ed.pl.jdiff": 2409751654,
 	"th155/data/event/script/miko/stage1.pl.jdiff": 3398379511,
