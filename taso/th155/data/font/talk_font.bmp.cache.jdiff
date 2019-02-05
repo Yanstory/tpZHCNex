@@ -1,6 +1,6 @@
 {
   "patch": {
-    "plugin": "bmpfont_create_gdiplus",
+    "plugin": "bmpfont_create_gdi",
     "font_file": "simhei.ttf",
     "font_name": "SimHei",
     "font_size": 25,
@@ -13,7 +13,7 @@
     ],
     "chars_source": "*"
   },
-  "chars_count": 8124,
+  "chars_count": 8125,
   "chars_list": [
     false,
     false,
@@ -9494,7 +9494,7 @@
     false,
     false,
     false,
-    false,
+    true,
     false,
     false,
     false,
