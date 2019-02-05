@@ -1,5 +1,5 @@
 {
-	"plugin":        "bmpfont_create_gdi",
+	"plugin":        "bmpfont_create_gdiplus",
 	"font_file":     "syBold.ttf",
 	"font_name":     "Source Han Sans CN Bold",
 	"font_size":     24,

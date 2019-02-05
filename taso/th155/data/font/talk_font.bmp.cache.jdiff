@@ -13,7 +13,7 @@
     ],
     "chars_source": "*"
   },
-  "chars_count": 8125,
+  "chars_count": 8127,
   "chars_list": [
     false,
     false,
@@ -65104,8 +65104,8 @@
     false,
     false,
     false,
-    false,
-    false,
+    true,
+    true,
     false,
     false,
     false,
