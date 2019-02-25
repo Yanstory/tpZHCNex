@@ -2,7 +2,8 @@
 
 ## Language Select / 言語選択
 
-- [简体中文](thpatch-简体中文-附加补丁包-β)
+- [简体中文](thpatch-简体中文-附加补丁包-*β*)
+- [English](thpatch-zh-hans-ex-patches-*Beta*)
 
 ## thpatch 简体中文 附加补丁包 *β*
 
