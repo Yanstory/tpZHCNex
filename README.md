@@ -2,10 +2,10 @@
 
 ## Language Select / 言語選択
 
-- [简体中文](thpatch-简体中文-附加补丁包-β)
-- [English](thpatch-zh-hans-ex-patches-beta)
+- [简体中文](#thpatch-简体中文-附加补丁包-β)
+- [English](#thpatch-zh-hans-ex-patches-beta)
 
-## thpatch 简体中文 附加补丁包 β
+## thpatch 简体中文 附加补丁包 *β*
 
 此仓库包含了thpatch简体中文的附加补丁：
 
@@ -14,7 +14,7 @@
 一般而言，如果是应用东方STG作品，无需安装本仓库内的补丁。如果是心绮楼后的黄昏STG作品，则**必须**安装```taso```。
 
 ---
-## thpatch zh-hans ex-patches Beta
+## thpatch zh-hans ex-patches *Beta*
 
 This repository includes external patches for thpatch zh-hans:
 
