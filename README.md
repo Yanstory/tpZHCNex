@@ -13,6 +13,12 @@
 
 一般而言，如果是应用东方STG作品，无需安装本仓库内的补丁。如果是心绮楼后的黄昏STG作品，则**必须**安装```taso```。
 
+### 特别感谢
+
+- brliron
+- nmlgc
+- the thpatch team
+
 ---
 ## thpatch zh-hans ex-patches *Beta*
 
@@ -21,3 +27,9 @@ This repository includes external patches for thpatch zh-hans:
 - ```taso```: External patch for Tasofro's game (usually used for FTG like HM and later), has familiar effects of ```nmlgc/script_latin```.
 
 If you'd like to patch Touhou STG, it's not nessary to install the patch in this repository. But you **must** install ```taso``` if you'd like to patch HM and later FTGs produced by Tasofro.
+
+### Special Thanks
+
+- brliron
+- nmlgc
+- the thpatch team
