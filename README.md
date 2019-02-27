@@ -22,7 +22,7 @@
 ---
 ## thpatch zh-hans ex-patches *Beta*
 
-This repository includes external patches for thpatch zh-hans:
+This repository includes external patches for thpatch zh-hans (Simplified Chinese) :
 
 - ```taso```: External patch for Tasofro's game (usually used for FTG like HM and later), has familiar effects of ```nmlgc/script_latin```.
 
