@@ -1,6 +1,8 @@
 # tpZHCNex
 
-![Repo Size](https://img.shields.io/github/repo-size/yanstory/tpZHCNex.svg?label=RepoSize&style=flat-square) [![touhou patch center](https://img.shields.io/badge/Require-thcrap-yellow.svg?style=flat-square)](http://thpatch.net) ![GitHub issues](https://img.shields.io/github/issues/yanstory/tpZHCNex.svg?label=Issues&style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/yanstory/tpZHCNex.svg?label=RepoSize&style=flat-square)
+[![touhou patch center](https://img.shields.io/badge/Require-thcrap-yellow.svg?style=flat-square)](http://thpatch.net)
+[![GitHub issues](https://img.shields.io/github/issues/yanstory/tpZHCNex.svg?label=Issues&style=flat-square)](https://github.com/Yanstory/tpZHCNex/issues)
 
 ## Language Select / 言語選択
 
