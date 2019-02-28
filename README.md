@@ -1,5 +1,7 @@
 # tpZHCNex
 
+![Repo Size](https://img.shields.io/github/repo-size/yanstory/tpZHCNex.svg?label=RepoSize&style=flat-square) ![](https://img.shields.io/badge/Require-thcrap-yellow.svg?style=flat-square)
+
 ## Language Select / 言語選択
 
 - [简体中文](#thpatch-简体中文-附加补丁包-β)
