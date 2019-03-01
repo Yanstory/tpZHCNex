@@ -1,7 +1,7 @@
 {
 	"plugin":        "bmpfont_create_gdi",
-	"font_file":     "simhei.ttf",
-	"font_name":     "SimHei",
+	"font_file":     "simheig.ttf",
+	"font_name":     "SimHeiVMod",
 	"font_size":     25,
 	"rotate":        270,
 	"outline_width": 0,

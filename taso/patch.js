@@ -3,9 +3,10 @@
 		"nmlgc/base_tsa"
 	],
 	"fonts": {
-		"simhei.ttf": true,
-		"syBlod.ttf": true,
-		"syNormal.otf": true
+		"msyh.ttc": true,
+		"simhei.ttf": false,
+		"simheig.ttf": false,
+		"syBlod.ttf": true
 	},
 	"id": "taso",
 	"servers": [
