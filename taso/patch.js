@@ -10,6 +10,7 @@
 	},
 	"id": "taso",
 	"servers": [
+		"https://mirrors.thpatch.net/tpZHCNex/taso/",
 		"https://raw.githubusercontent.com/Yanstory/tpZHCNex/master/taso/"
 	],
 	"title": "tasofro's ftg Chinese Simplfied font patch"
