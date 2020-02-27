@@ -4,7 +4,7 @@
 [![touhou patch center](https://img.shields.io/badge/Require-thcrap-yellow.svg?style=flat-square)](http://thpatch.net)
 [![GitHub issues](https://img.shields.io/github/issues/yanstory/tpZHCNex.svg?label=Issues&style=flat-square)](https://github.com/Yanstory/tpZHCNex/issues)
 
-[中文指路牌](https://www.zybuluo.com/yanstime/note/1537159)
+[非官方中文指路牌](https://www.zybuluo.com/yanstime/note/1537159)
 
 ## Language Select / 言語選択
 
