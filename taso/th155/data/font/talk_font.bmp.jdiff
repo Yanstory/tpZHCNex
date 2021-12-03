@@ -1,5 +1,5 @@
 {
-	"plugin":        "bmpfont_create_gdiplus",
+	"plugin":        "bmpfont_create_gdi",
 	"font_file":     "simheig.ttf",
 	"font_name":     "SimHeiVMod",
 	"font_size":     25,
