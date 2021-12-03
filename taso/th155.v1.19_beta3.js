@@ -8,9 +8,6 @@
 		},
 		"push_char": {
 			"addr": "Rx065ba5"
-		},
-		"remove_setvertical": {
-			"addr": "Rx064d93"
 		}
 	},
 	"breakpoints": {

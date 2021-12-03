@@ -1,11 +1,11 @@
 {
 	"dependencies": [
-		"nmlgc/base_tsa"
+		"base_tsa"
 	],
 	"fonts": {
 		"msyh.ttc": true,
 		"simhei.ttf": false,
-		"simheig.ttf": false,
+		"simheig.ttf": true,
 		"syBlod.ttf": true
 	},
 	"id": "taso",
