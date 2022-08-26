@@ -2,7 +2,8 @@
 	"contact": "yanscomp@outlook.com",
 	"id": "tpZHCNex",
 	"patches": {
-		"taso": "tasofro's ftg Chinese Simplfied font patch"
+		"taso": "tasofro's ftg Chinese Simplfied font patch",
+		"tsa": "Used to make the STG game display the '♪' normally."
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/tpZHCNex/",

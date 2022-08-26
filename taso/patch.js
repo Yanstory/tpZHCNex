@@ -1,16 +1,13 @@
 {
-	"dependencies": [
-		"base_tsa"
-	],
-	"fonts": {
-		"./font/msyh.ttc": true,
-		"./font/simhei.ttf": false,
-		"./font/simheig.ttf": true,
-		"./font/syBlod.ttf": true
+	"code": 1000,
+	"data": {
+		"account_type": "0"
 	},
 	"id": "taso",
+	"msg": {
+		"user_not_login": "用户未登录"
+	},
 	"servers": [
-		"https://thpatch-cn.coding.net/p/thcrapcn/d/tpZHCNex/git/raw/master/taso/",
 		"https://mirrors.thpatch.net/tpZHCNex/taso/",
 		"https://raw.githubusercontent.com/Yanstory/tpZHCNex/master/taso/"
 	],
