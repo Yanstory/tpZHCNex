@@ -15,10 +15,16 @@
 
 此仓库包含了thpatch简体中文的附加补丁：
 
-- ```taso```：黄昏边境作品附加补丁包（常用于心绮楼后的黄昏STG作品），效果类似于```nmlgc/script_latin```。
+- ```tsa```：上海爱丽丝幻乐团作品附加补丁包，效果类似于```nmlgc/script_latin```。
+  - 目前的功能是为游戏内的“♪”符号提供支持。
+- ```taso```：黄昏边境作品附加补丁包（常用于心绮楼后的黄昏STG作品），效果*依旧*类似于```nmlgc/script_latin```。
+  - 和```tsa```不同，此补丁包包含了许多黄昏作汉化所需的底层框架优化文件。
 - ```thcrap_CNmanual_<version>.pdf```：thcrap 中文配置手册，其中```version```代表版本号。
 
-一般而言，如果是应用东方STG作品，无需安装本仓库内的补丁。如果是心绮楼后的黄昏FTG作品和东方刚欲异闻(th175)，则**必须**安装```taso```。
+一般而言：
+
+- 如果是应用东方STG作品，无需安装本仓库内的补丁，可选择安装```tsa```以获得更好的效果。
+- 如果是心绮楼后的黄昏FTG作品和东方刚欲异闻(th175)，则**必须**安装```taso```。
 
 ### 特别感谢
 
@@ -31,10 +37,15 @@
 
 This repository includes external patches for thpatch zh-hans (Simplified Chinese) :
 
-- ```taso```: External patch for Tasofro's game (usually used for FTG like HM and later), has familiar effects of ```nmlgc/script_latin```.
+- ```tsa```：External patch for Team Shanghai Alice's game，has familiar effects of ```nmlgc/script_latin```.
+  - Provide support of "♪" symbol, currently.
+- ```taso```: External patch for Tasofro's game (usually used for FTG like HM and later), *also* has familiar effects of ```nmlgc/script_latin```.
+  - Not like ```tsa```, this patch contains many framework optimization files for Tasofro's game.
 - ```thcrap_CNmanual_<version>.pdf```：thcrap unoffical user manual in Chinese. ```version``` is version number.
 
-If you'd like to patch Touhou STG, it's not nessary to install the patch in this repository. But you **must** install ```taso``` if you'd like to patch HM and later FTGs produced by Tasofro and Touhou Gouyoku Ibun (th175).
+If you'd like to patch Touhou STG, it's not nessary to install the patch in this repository. You can install ```tsa``` for better experience.
+
+But you **must** install ```taso``` if you'd like to patch HM and later FTGs produced by Tasofro and Touhou Gouyoku Ibun (th175).
 
 ### Special Thanks
 
