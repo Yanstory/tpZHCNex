@@ -7,8 +7,9 @@
 	"syBold.ttf": 446965179,
 	"syNormal.otf": null,
 	"th155.js": 2661784809,
+	"th155.v1.03.js": 783099900,
 	"th155.v1.10.js": 2982090419,
-	"th155.v1.10_steam.js": 3800585298,
+	"th155.v1.10_steam.js": 1085598892,
 	"th155.v1.19_beta3.js": 783099900,
 	"th155/data/event/script/futo/ed.pl": 2593150697,
 	"th155/data/event/script/jyoon/ed.pl": 1468115085,
@@ -53,5 +54,12 @@
 	"th155/data/win/message/tenshi.csv.jdiff": 205347680,
 	"th155/data/win/message/udonge.csv.jdiff": 2932485899,
 	"th155/data/win/message/usami.csv.jdiff": 3766227861,
-	"th155/data/win/message/yukari.csv.jdiff": 4156527745
+	"th155/data/win/message/yukari.csv.jdiff": 4156527745,
+	"th175/data/event/script/lib/init.pl": 2415523082,
+	"th175/data/font/KH-Dot-Dougenzaka-16.ttf": 1006853349,
+	"th175/data/font/SourceHanSerif-Bold.otf": 3097579986,
+	"th175/data/font/SourceHanSerif-Heavy.otf": 2062909925,
+	"th175/data/font/genkai-mincho.ttf": 3833191006,
+	"th175/data/script/scene/config.nut.jdiff": 3634207488,
+	"th175/data/script/scene/pause.nut.jdiff": 2902796591
 }
