@@ -13,16 +13,16 @@
 			"title": "Use alternate dialog font"
 		},
 		"trophy_ingame_lineflip_1": {
-			"ignore": false
+			"ignore": true
 		},
 		"trophy_ingame_lineflip_2": {
-			"ignore": false
+			"ignore": true
 		},
 		"ability_ingame_lineflip_1": {
-			"ignore": false
+			"ignore": true
 		},
 		"ability_ingame_lineflip_2": {
-			"ignore": false
+			"ignore": true
 		}
 	},
 	"font": "Touhou Simhei",
