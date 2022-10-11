@@ -1,6 +1,6 @@
 {
 	"Touhou_Simhei.ttf": 2431742146,
-	"global.js": 502455143,
+	"global.js": 2497292690,
 	"patch.js": 3310486346,
 	"th11.js": 14541109,
 	"th12.js": 14541109,
