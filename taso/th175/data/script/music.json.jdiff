@@ -1,0 +1,134 @@
+﻿{
+	"flandre1":
+	{
+		"name": "U.N.OWEN就是她吗？",
+		"hint": ""
+	},
+	"jyoon1":
+	{
+		"name": "今宵是飘逸的自我主义者　～ Egoistic Flowers.",
+		"hint": "",
+		"disp_name": "今宵是飘逸的自我主义者\\S[15]　～ Egoistic Flowers."
+	},
+	"kanako1":
+	{
+		"name": "神圣庄严的古战场",
+		"hint": ""
+	},
+	"kogasa1":
+	{
+		"name": "请注意万年备用伞",
+		"hint": ""
+	},
+	"marisa1":
+	{
+		"name": "恋色Master spark",
+		"hint": ""
+	},
+	"murasa1":
+	{
+		"name": "Captain Murasa",
+		"hint": ""
+	},
+	"niwatari1":
+	{
+		"name": "Seraphic Chicken",
+		"hint": ""
+	},
+	"okina1":
+	{
+		"name": "秘神摩多罗",
+		"hint": ""
+	},
+	"op":
+	{
+		"name": "被水淹没的沉愁地狱",
+		"hint": ""
+	},
+	"reimu1":
+	{
+		"name": "少女绮想曲",
+		"hint": ""
+	},
+	"staff_roll":
+	{
+		"name": "东方刚欲异闻",
+		"hint": ""
+	},
+	"talk_door":
+	{
+		"name": "门再也进不去了",
+		"hint": ""
+	},
+	"talk_ed":
+	{
+		"name": "天理人欲",
+		"hint": ""
+	},
+	"talk_forest":
+	{
+		"name": "魔法使的忧郁",
+		"hint": ""
+	},
+	"talk_Inferno":
+	{
+		"name": "业火地幔",
+		"hint": ""
+	},
+	"talk_oil":
+	{
+		"name": "大地之底，刚欲之海",
+		"hint": ""
+	},
+	"talk_reactor":
+	{
+		"name": "御柱的墓场",
+		"hint": ""
+	},
+	"talk_scarlet":
+	{
+		"name": "魔法少女们的百年祭",
+		"hint": ""
+	},
+	"talk_town":
+	{
+		"name": "漫游旧地狱街道",
+		"hint": ""
+	},
+	"talk_underground":
+	{
+		"name": "昏暗的风穴",
+		"hint": ""
+	},
+	"talk_waterhell":
+	{
+		"name": "不朽的曼珠沙华",
+		"hint": ""
+	},
+	"toutetu1":
+	{
+		"name": "贪欲之兽的记忆",
+		"hint": ""
+	},
+	"toutetu2":
+	{
+		"name": "全有机体的记忆　～ Memory of Fossil Energy.",
+		"hint": "",
+		"disp_name": "全有机体的记忆\\S[12]　～ Memory of Fossil Energy."
+	},
+	"utuho1":
+	{
+		"name": "灵知的太阳信仰",
+		"hint": ""
+	},
+	"yamame1":
+	{
+		"name": "被封印的妖怪",
+		"hint": ""
+	},
+	"yuugi1":
+	{
+		"name": "大江山的花之酒宴",
+		"hint": ""
+	}
+}

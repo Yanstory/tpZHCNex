@@ -1,6 +1,6 @@
 {
 	"msyh.ttc": 2972488668,
-	"patch.js": 3649353719,
+	"patch.js": 311561845,
 	"simheig.ttf": 2197716375,
 	"syBold.ttf": 446965179,
 	"th135/data/system/talk/balloon.csv": 2908468045,
@@ -57,6 +57,7 @@
 	"th175/data/script/lib/input_util.nut": 3682000061,
 	"th175/data/script/lib/session_data.nut": 3407007491,
 	"th175/data/script/lib/trophy.nut": 4283904750,
+	"th175/data/script/music.json.jdiff": 1960368883,
 	"th175/data/script/scene/achievement.nut": 3244907613,
 	"th175/data/script/scene/config.nut": 2780895059,
 	"th175/data/script/scene/config.nut.jdiff": 3634207488,
