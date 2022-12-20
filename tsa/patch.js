@@ -7,6 +7,7 @@
 	},
 	"id": "tsa",
 	"servers": [
+		"https://gitee.com/rc17/tpZHCNex/raw/master/tsa/",
 		"https://mirrors.thpatch.net/tpZHCNex/tsa/",
 		"https://raw.githubusercontent.com/Yanstory/tpZHCNex/master/tsa/"
 	],

@@ -10,6 +10,7 @@
 	},
 	"id": "taso",
 	"servers": [
+		"https://gitee.com/rc17/tpZHCNex/raw/master/taso/",
 		"https://mirrors.thpatch.net/tpZHCNex/taso/",
 		"https://raw.githubusercontent.com/Yanstory/tpZHCNex/master/taso/"
 	],
