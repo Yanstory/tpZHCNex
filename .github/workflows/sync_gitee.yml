@@ -5,6 +5,7 @@ on: [ push, delete, create ]
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: github.repository_owner == 'ROCO-freedom'
     steps:
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master
