@@ -5,7 +5,7 @@ on: [ push, delete, create ]
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.repository_owner == 'ROCO-freedom'
+    if: github.repository_owner == 'Yanstory'
     steps:
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master
@@ -14,6 +14,6 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
         with:
           # 注意替换为你的 GitHub 源仓库地址
-          source-repo: git@github.com:ROCO-freedom/tpZHCNex.git
+          source-repo: git@github.com:Yanstory/tpZHCNex.git
           # 注意替换为你的 Gitee 目标仓库地址
           destination-repo: git@gitee.com:rc17/tpZHCNex.git
