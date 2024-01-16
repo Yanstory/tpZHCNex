@@ -32,5 +32,6 @@
 	"th18_custom/dialog_3.js": 4271356135,
 	"th18_custom/stringlocs.v0.01a.js": 486778147,
 	"th18_custom/stringlocs.v0.01b.js": 486778147,
-	"th18_custom/stringlocs.v1.00a.js": 486778147
+	"th18_custom/stringlocs.v1.00a.js": 486778147,
+	"th19.v0.01a.js": 1016839515
 }
