@@ -1,7 +1,7 @@
 {
 	"Touhou_Simhei.ttf": 2431742146,
 	"global.js": 2497292690,
-	"patch.js": 3940003138,
+	"patch.js": 2338576357,
 	"th125.js": 14541109,
 	"th13.v1.00c.js": 3336463548,
 	"th14.v1.00b.js": 2222302551,
@@ -32,5 +32,6 @@
 	"th18_custom/dialog_3.js": 4271356135,
 	"th18_custom/stringlocs.v0.01a.js": 486778147,
 	"th18_custom/stringlocs.v0.01b.js": 486778147,
-	"th18_custom/stringlocs.v1.00a.js": 486778147
+	"th18_custom/stringlocs.v1.00a.js": 486778147,
+	"th19.v0.01a.js": 1016839515
 }
