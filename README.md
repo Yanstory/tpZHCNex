@@ -5,6 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/yanstory/tpZHCNex.svg?label=Issues&style=flat-square)](https://github.com/Yanstory/tpZHCNex/issues)
 
 [thcrap食用方法](https://thpatch.rcopky.top/attention/readme.html)
+
 [Touhou Patch Center中文站](https://thpatch.rcopky.top/)
 
 ## Language Select / 言語選択
