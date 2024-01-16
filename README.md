@@ -4,7 +4,8 @@
 [![touhou patch center](https://img.shields.io/badge/Require-thcrap-yellow.svg?style=flat-square)](http://thpatch.net)
 [![GitHub issues](https://img.shields.io/github/issues/yanstory/tpZHCNex.svg?label=Issues&style=flat-square)](https://github.com/Yanstory/tpZHCNex/issues)
 
-[非官方中文指路牌](https://www.zybuluo.com/yanstime/note/1537159)
+[thcrap食用方法](https://thpatch.rcopky.top/attention/readme.html)
+[Touhou Patch Center中文站](https://thpatch.rcopky.top/)
 
 ## Language Select / 言語選択
 
