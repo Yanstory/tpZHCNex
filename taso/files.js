@@ -1,6 +1,6 @@
 {
 	"msyh.ttc": 2972488668,
-	"patch.js": 2815623157,
+	"patch.js": 3981666139,
 	"simheig.ttf": 2197716375,
 	"syBold.ttf": 446965179,
 	"th135/data/system/talk/balloon.csv": 3682600354,
