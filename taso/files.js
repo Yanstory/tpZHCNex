@@ -19,7 +19,7 @@
 	"th155/data/event/script/usami/ed.pl": 2044399272,
 	"th155/data/event/script/yukari/ed.pl": 319820052,
 	"th155/data/font/font_texture_outline16_600.bmp.jdiff": 266425455,
-	"th155/data/font/font_texture_outline24.bmp": 3446536315,
+	"th155/data/font/font_texture_outline24.bmp": 2121390679,
 	"th155/data/font/spell_font.bmp.jdiff": 2115228913,
 	"th155/data/font/talk_font.bmp": 445607244,
 	"th155/data/script/talk/talk.v1.10.nut.jdiff": 797945099,
