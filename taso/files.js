@@ -23,6 +23,7 @@
 	"th155/data/script/talk/talk.v1.10_steam.nut.jdiff": 797945099,
 	"th155/data/script/talk/talk.v1.19_beta3.nut.jdiff": 797945099,
 	"th155/data/script/talk/talk.v1.21b.nut.jdiff": 797945099,
+	"th155/data/system/help/help.png": 462523007,
 	"th155/data/win/message/doremy.csv.jdiff": 2005673712,
 	"th155/data/win/message/futo.csv.jdiff": 3801202470,
 	"th155/data/win/message/hijiri.csv.jdiff": 3333597618,
